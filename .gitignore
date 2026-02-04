@@ -1,0 +1,22 @@
+# Datasets
+*.parquet
+*.csv
+
+# Models
+*.pkl
+
+# Predictions / arrays
+*.npy
+
+# Images / plots
+*.png
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+
+final/pm2.5_1_model/
+*.pkl
+*.npy
